@@ -1,8 +1,13 @@
-#¿Qué es mi producto y para que sirve?
-Es una app para crear y manejar tus tareas pendientes, alli podras crear, editar, eliminar, marcar como completadas, esto con el fin de darte mas organizacion y que puedas organizar mejor tu tiempo dia a dia.
+# ¿Qué es mi producto y para qué sirve?
 
-#¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
-Listar Tarea: Te permite ver todas las tareas pendientes y completadas.
-Completar Tarea: Marca una tarea Completada.
-Editar Tarea: Permite editar la descripcion de tu tarea.
-Eliminar Tarea: Elimina las tareas que ya no se necesitan.
+Es una aplicación de Lista de Tareas que permite al usuario crear, editar, eliminar y marcar como completada cada tarea
+que se le asigne.
+
+# ¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
+
+Las funcionalidades más importantes son:
+
+- Crear una tarea
+- Editar una tarea
+- Eliminar una tarea
+- Marcar como completada una tarea
